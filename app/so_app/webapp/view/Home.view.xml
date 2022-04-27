@@ -75,7 +75,7 @@
                             <columns>
                                 <Column>
                                     <header>
-                                        <Label text="So Number" />
+                                        <Label text="Sales Order Number" />
                                     </header>
                                 </Column>
                                 <Column>
